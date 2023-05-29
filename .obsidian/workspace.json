@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "39f1629ae9787761",
+    "type": "split",
+    "children": [
+      {
+        "id": "4194b68bfbb42675",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f63ceb2c8f80910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "App installs/Linux/Tmux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5836f0df5d060a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3aa80146b0a6f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9407e544a9eb25c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7969323dcfea0202",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1c127f2e4a90760",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "855ff80ce53e5cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e4bb89ba140c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187b0d6f82812ec3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "App installs/Linux/Tmux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d237e8734fe781e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "App installs/Linux/Tmux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d54e5d5f9e7b3fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "644621dab87c4315",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "App installs/Linux/Tmux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9407e544a9eb25c0",
+  "lastOpenFiles": [
+    "App installs/Linux",
+    "Languages/Typescript/UDemy Course/Section 1/Section 1.md",
+    "App installs/Linux/Tmux.md",
+    "App installs/Neovim/Install and Setup for NVChad.md",
+    "App installs/Neovim/Install Neovim.md",
+    "Excalidraw/Drawing 2023-05-24 17.49.21.excalidraw.md",
+    "2023-05-24.md",
+    "Untitled.canvas",
+    "App installs/Neovim/Install Neovim 1.md",
+    "App installs/git/Install Git.md",
+    "App installs/WSL/First WSL Install.md",
+    "App installs/WSL",
+    "App installs/git",
+    "Languages/Typescript/UDemy Course/Section 1",
+    "Excalidraw/Drawing 2023-05-24 14.05.40.excalidraw.md",
+    "Excalidraw",
+    "App installs/Neovim",
+    "App installs",
+    "Languages/Untitled.md",
+    "Languages/Typescript/UDemy Course",
+    "Languages/Typescript",
+    "Untitled.md",
+    "Algorithms & Data Structures/Data Structures",
+    "Algorithms & Data Structures/Algorithms",
+    "Algorithms & Data Structures/Untitled.md",
+    "README.md",
+    "Languages/HT.md"
+  ]
+}
