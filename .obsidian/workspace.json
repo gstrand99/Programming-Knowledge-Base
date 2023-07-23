@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App installs/Linux/Tmux.md",
+                "file": "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App installs/Linux/Tmux.md",
+                "file": "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App installs/Linux/Tmux.md",
+                "file": "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App installs/Linux/Tmux.md"
+                "file": "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md"
               }
             }
           }
@@ -143,14 +143,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9407e544a9eb25c0",
+  "active": "5f63ceb2c8f80910",
   "lastOpenFiles": [
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Binary Search.md",
+    "Programming/Concepts/Recursion.md",
+    "Programming/Concepts/Big O.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Queue.md",
+    "Images/Data & algo/Queue.png",
+    "Programming/Data Structures and Algorithms/Data Structures/Linked List.md",
+    "Images/Data & algo/Linked List Big O.png",
+    "Images/Data & algo/linked list big 0.png",
+    "Programming/Data Structures and Algorithms/Data Structures/Array.md",
+    "README.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Sort/Bubble Sort.md",
+    "Programming/Concepts",
+    "Images/Data & algo/bubble big o.png",
+    "Images/Data & algo/Bubble Sort.png",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Two Crystal Balls.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Sort",
+    "Images/Data & algo/Two Crystal Ball.png",
+    "Images/Data & algo",
+    "Images/Data & algo/Linear Search.png",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Linear_Search_drawing.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Search",
+    "Programming/Data Structures and Algorithms/Algorithms",
+    "Images",
+    "Images/Data & algo/Array image.png",
+    "Programming/Data Structures and Algorithms/Data Structures",
+    "Programming/Data Structures and Algorithms/Untitled.md",
+    "App installs/Linux/Tmux.md",
+    "Programming/Data Structures and Algorithms",
+    "Programming",
     "App installs/Linux",
     "Languages/Typescript/UDemy Course/Section 1/Section 1.md",
-    "App installs/Linux/Tmux.md",
     "App installs/Neovim/Install and Setup for NVChad.md",
     "App installs/Neovim/Install Neovim.md",
     "Excalidraw/Drawing 2023-05-24 17.49.21.excalidraw.md",
@@ -159,21 +190,9 @@
     "App installs/Neovim/Install Neovim 1.md",
     "App installs/git/Install Git.md",
     "App installs/WSL/First WSL Install.md",
-    "App installs/WSL",
-    "App installs/git",
-    "Languages/Typescript/UDemy Course/Section 1",
     "Excalidraw/Drawing 2023-05-24 14.05.40.excalidraw.md",
-    "Excalidraw",
-    "App installs/Neovim",
-    "App installs",
     "Languages/Untitled.md",
-    "Languages/Typescript/UDemy Course",
-    "Languages/Typescript",
-    "Untitled.md",
-    "Algorithms & Data Structures/Data Structures",
-    "Algorithms & Data Structures/Algorithms",
     "Algorithms & Data Structures/Untitled.md",
-    "README.md",
     "Languages/HT.md"
   ]
 }
