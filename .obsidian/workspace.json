@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App installs/Linux/Tmux.md",
+                "file": "projects/RESTWrench/IDEA.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "29515bb2370dc49d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "projects/RESTWrench/cmdtree.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App installs/Linux/Tmux.md",
+                "file": "projects/RESTWrench/cmdtree.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App installs/Linux/Tmux.md",
+                "file": "projects/RESTWrench/cmdtree.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App installs/Linux/Tmux.md"
+                "file": "projects/RESTWrench/cmdtree.excalidraw.md"
               }
             }
           }
@@ -138,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,11 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9407e544a9eb25c0",
+  "active": "29515bb2370dc49d",
   "lastOpenFiles": [
+    "projects/RESTWrench/IDEA.md",
+    "README.md",
+    "projects/RESTWrench/cmdtree.excalidraw.md",
+    "projects/RESTWrench/cmdtree.excalidraw 1.md",
+    "App installs/Linux/Tmux.md",
+    "projects/RESTWrench/RUST",
+    "projects/RESTWrench/GO",
+    "projects/RESTWrench",
+    "projects",
     "App installs/Linux",
     "Languages/Typescript/UDemy Course/Section 1/Section 1.md",
-    "App installs/Linux/Tmux.md",
     "App installs/Neovim/Install and Setup for NVChad.md",
     "App installs/Neovim/Install Neovim.md",
     "Excalidraw/Drawing 2023-05-24 17.49.21.excalidraw.md",
@@ -165,15 +185,9 @@
     "Excalidraw/Drawing 2023-05-24 14.05.40.excalidraw.md",
     "Excalidraw",
     "App installs/Neovim",
-    "App installs",
     "Languages/Untitled.md",
-    "Languages/Typescript/UDemy Course",
-    "Languages/Typescript",
     "Untitled.md",
-    "Algorithms & Data Structures/Data Structures",
-    "Algorithms & Data Structures/Algorithms",
     "Algorithms & Data Structures/Untitled.md",
-    "README.md",
     "Languages/HT.md"
   ]
 }
