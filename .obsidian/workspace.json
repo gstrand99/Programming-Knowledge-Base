@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
+                "file": "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
+                "file": "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
+                "file": "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md"
+                "file": "Programming/Data Structures and Algorithms/Data Structures/Stack.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,12 +149,14 @@
   },
   "active": "5f63ceb2c8f80910",
   "lastOpenFiles": [
+    "Programming/Data Structures and Algorithms/Data Structures/Queue.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
+    "Images/Data & algo/Stack.png",
+    "Programming/Concepts/Recursion.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Untitled.md",
+    "Programming/Concepts/Big O.md",
     "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
     "Programming/Data Structures and Algorithms/Algorithms/Search/Binary Search.md",
-    "Programming/Concepts/Recursion.md",
-    "Programming/Concepts/Big O.md",
-    "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
-    "Programming/Data Structures and Algorithms/Data Structures/Queue.md",
     "Images/Data & algo/Queue.png",
     "Programming/Data Structures and Algorithms/Data Structures/Linked List.md",
     "Images/Data & algo/Linked List Big O.png",
@@ -191,8 +193,6 @@
     "App installs/git/Install Git.md",
     "App installs/WSL/First WSL Install.md",
     "Excalidraw/Drawing 2023-05-24 14.05.40.excalidraw.md",
-    "Languages/Untitled.md",
-    "Algorithms & Data Structures/Untitled.md",
-    "Languages/HT.md"
+    "Languages/Untitled.md"
   ]
 }
