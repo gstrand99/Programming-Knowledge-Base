@@ -1,0 +1,12 @@
+## What is it?
+- [[Big O]] of an operation 
+	- push is constant O(1)
+	- pop is also O(1)
+	- enqueue, dequeue, delete, insert O(N)
+- When you try to push while over capacity
+	- create a new array
+		- copy all values over to new, larger array and then push to the end of the new array
+	- you want to get as little memory as you could need, but not too little to have a bunch of grow operations
+- enqueue not great because you must move every item to the right
+- dequeue does the same but the other way
+- arraylists are very bad with queue like operations but not with push or pop

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
+                "file": "Programming/Concepts/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
+                "file": "Programming/Concepts/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
+                "file": "Programming/Concepts/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Data Structures and Algorithms/Data Structures/Stack.md"
+                "file": "Programming/Concepts/Recursion.md"
               }
             }
           }
@@ -147,13 +147,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f63ceb2c8f80910",
+  "active": "9407e544a9eb25c0",
   "lastOpenFiles": [
-    "Programming/Data Structures and Algorithms/Data Structures/Queue.md",
-    "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
-    "Images/Data & algo/Stack.png",
+    "Images/Data & algo/Maze Setup.png",
+    "Programming/Concepts/Path Finder.md",
     "Programming/Concepts/Recursion.md",
-    "Programming/Data Structures and Algorithms/Data Structures/Untitled.md",
+    "Images/Data & algo/recursion basic drawing.png",
+    "Images/Data & algo/Basic Recursion.png",
+    "Programming/Data Structures and Algorithms/Data Structures/Array.md",
+    "Images/Data & algo/JS ArrayList.png",
+    "Programming/Data Structures and Algorithms/Data Structures/ArrayBuffer.md",
+    "Programming/Data Structures and Algorithms/Data Structures/ArrayList.md",
+    "Programming/Concepts/Array vs Linked List.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Queue.md",
+    "Images/Data & algo/Stack.png",
     "Programming/Concepts/Big O.md",
     "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
     "Programming/Data Structures and Algorithms/Algorithms/Search/Binary Search.md",
@@ -161,7 +169,6 @@
     "Programming/Data Structures and Algorithms/Data Structures/Linked List.md",
     "Images/Data & algo/Linked List Big O.png",
     "Images/Data & algo/linked list big 0.png",
-    "Programming/Data Structures and Algorithms/Data Structures/Array.md",
     "README.md",
     "Programming/Data Structures and Algorithms/Algorithms/Sort/Bubble Sort.md",
     "Programming/Concepts",
@@ -171,12 +178,10 @@
     "Programming/Data Structures and Algorithms/Algorithms/Sort",
     "Images/Data & algo/Two Crystal Ball.png",
     "Images/Data & algo",
-    "Images/Data & algo/Linear Search.png",
     "Programming/Data Structures and Algorithms/Algorithms/Search/Linear_Search_drawing.md",
     "Programming/Data Structures and Algorithms/Algorithms/Search",
     "Programming/Data Structures and Algorithms/Algorithms",
     "Images",
-    "Images/Data & algo/Array image.png",
     "Programming/Data Structures and Algorithms/Data Structures",
     "Programming/Data Structures and Algorithms/Untitled.md",
     "App installs/Linux/Tmux.md",
@@ -190,9 +195,6 @@
     "2023-05-24.md",
     "Untitled.canvas",
     "App installs/Neovim/Install Neovim 1.md",
-    "App installs/git/Install Git.md",
-    "App installs/WSL/First WSL Install.md",
-    "Excalidraw/Drawing 2023-05-24 14.05.40.excalidraw.md",
-    "Languages/Untitled.md"
+    "App installs/git/Install Git.md"
   ]
 }
