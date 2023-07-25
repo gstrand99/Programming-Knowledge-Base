@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4194b68bfbb42675",
+        "id": "622096dd637e8f0f",
         "type": "tabs",
         "children": [
           {
-            "id": "5f63ceb2c8f80910",
+            "id": "2b55e4995a5e884b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/RESTWrench/IDEA.md",
+                "file": "Programming/Concepts/Big O.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "29515bb2370dc49d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "projects/RESTWrench/cmdtree.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/RESTWrench/cmdtree.excalidraw.md",
+                "file": "Programming/Concepts/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/RESTWrench/cmdtree.excalidraw.md",
+                "file": "Programming/Concepts/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/RESTWrench/cmdtree.excalidraw.md"
+                "file": "Programming/Concepts/Big O.md"
               }
             }
           }
@@ -144,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,18 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29515bb2370dc49d",
+  "active": "9407e544a9eb25c0",
   "lastOpenFiles": [
-    "projects/RESTWrench/IDEA.md",
-    "README.md",
+    "Programming/Concepts/Recursion.md",
     "projects/RESTWrench/cmdtree.excalidraw.md",
+    "Programming/Concepts/Big O.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Linked List.md",
+    "App installs/Neovim/LSP.md",
+    "Images/Data & algo/Queue.png",
+    "Images/Data & algo/Linear Search.png",
+    "Images/Data & algo/Bubble Sort.png",
+    "Images/Data & algo/bubble big o.png",
+    "Images/Data & algo/Array image.png",
+    "projects/RESTWrench/IDEA.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Sort/Bubble Sort.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Two Crystal Balls.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Binary Search.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Queue.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Array.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Sort",
+    "Programming/Data Structures and Algorithms/Algorithms/Search",
+    "Programming/Data Structures and Algorithms/Data Structures",
+    "Programming/Data Structures and Algorithms/Algorithms",
+    "Programming/Data Structures and Algorithms",
+    "Programming/Concepts",
+    "Programming",
+    "Images/Data & algo/Two Crystal Ball.png",
+    "Images/Data & algo/Stack.png",
+    "Images/Data & algo/Linked List Big O.png",
+    "Images/Data & algo",
+    "Images",
+    "README.md",
     "projects/RESTWrench/cmdtree.excalidraw 1.md",
     "App installs/Linux/Tmux.md",
     "projects/RESTWrench/RUST",
-    "projects/RESTWrench/GO",
-    "projects/RESTWrench",
-    "projects",
-    "App installs/Linux",
     "Languages/Typescript/UDemy Course/Section 1/Section 1.md",
     "App installs/Neovim/Install and Setup for NVChad.md",
     "App installs/Neovim/Install Neovim.md",
@@ -179,15 +191,7 @@
     "App installs/Neovim/Install Neovim 1.md",
     "App installs/git/Install Git.md",
     "App installs/WSL/First WSL Install.md",
-    "App installs/WSL",
-    "App installs/git",
-    "Languages/Typescript/UDemy Course/Section 1",
     "Excalidraw/Drawing 2023-05-24 14.05.40.excalidraw.md",
-    "Excalidraw",
-    "App installs/Neovim",
-    "Languages/Untitled.md",
-    "Untitled.md",
-    "Algorithms & Data Structures/Untitled.md",
-    "Languages/HT.md"
+    "Languages/Untitled.md"
   ]
 }
