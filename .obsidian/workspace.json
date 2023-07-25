@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Concepts/Recursion.md",
+                "file": "Programming/Data Structures and Algorithms/Algorithms/Sort/Quick Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Concepts/Recursion.md",
+                "file": "Programming/Data Structures and Algorithms/Algorithms/Sort/Quick Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Concepts/Recursion.md",
+                "file": "Programming/Data Structures and Algorithms/Algorithms/Sort/Quick Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Concepts/Recursion.md"
+                "file": "Programming/Data Structures and Algorithms/Algorithms/Sort/Quick Sort.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "9407e544a9eb25c0",
   "lastOpenFiles": [
+    "Images/Data & algo/Quick Sort.png",
+    "Programming/Concepts/Recursion.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Sort/Quick Sort.md",
     "Images/Data & algo/Maze Setup.png",
     "Programming/Concepts/Path Finder.md",
-    "Programming/Concepts/Recursion.md",
     "Images/Data & algo/recursion basic drawing.png",
     "Images/Data & algo/Basic Recursion.png",
     "Programming/Data Structures and Algorithms/Data Structures/Array.md",
@@ -176,7 +178,6 @@
     "Images/Data & algo/Bubble Sort.png",
     "Programming/Data Structures and Algorithms/Algorithms/Search/Two Crystal Balls.md",
     "Programming/Data Structures and Algorithms/Algorithms/Sort",
-    "Images/Data & algo/Two Crystal Ball.png",
     "Images/Data & algo",
     "Programming/Data Structures and Algorithms/Algorithms/Search/Linear_Search_drawing.md",
     "Programming/Data Structures and Algorithms/Algorithms/Search",
@@ -194,7 +195,6 @@
     "Excalidraw/Drawing 2023-05-24 17.49.21.excalidraw.md",
     "2023-05-24.md",
     "Untitled.canvas",
-    "App installs/Neovim/Install Neovim 1.md",
-    "App installs/git/Install Git.md"
+    "App installs/Neovim/Install Neovim 1.md"
   ]
 }
