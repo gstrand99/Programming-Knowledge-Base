@@ -1,5 +1,6 @@
 ## What is an array?
-- const a = [] isn't an array
+- const a = [] isn't an array in js
+	- ![[JS ArrayList.png]]
 - unbreaking memory space with bites in between
 - arrays are not the same as lists
 - array's in JS are not the same as they are in something like C
