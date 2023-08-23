@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "622096dd637e8f0f",
+        "id": "ce94b832f509c143",
         "type": "tabs",
         "children": [
           {
-            "id": "2b55e4995a5e884b",
+            "id": "01f118ca764ca156",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcdb93019ae78ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Concepts/Big O.md",
+                "file": "Languages/Typescript/UDemy Course/Section 1/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Concepts/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Concepts/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Concepts/Big O.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,25 +150,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9407e544a9eb25c0",
+  "active": "01f118ca764ca156",
   "lastOpenFiles": [
-    "Programming/Concepts/Recursion.md",
-    "projects/RESTWrench/cmdtree.excalidraw.md",
-    "Programming/Concepts/Big O.md",
+    "Languages/Typescript/UDemy Course/Section 1/Overview.md",
+    "Languages/Typescript/Type System.md",
+    "Languages/Typescript/Writing TS Code.md",
     "Programming/Data Structures and Algorithms/Data Structures/Linked List.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Queue.md",
+    "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Two Crystal Balls.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Binary Search.md",
+    "Programming/Concepts/Big O.md",
+    "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
+    "projects/RESTWrench/cmdtree.excalidraw.md",
+    "projects/RESTWrench/IDEA.md",
+    "Programming/Concepts/Recursion.md",
     "App installs/Neovim/LSP.md",
     "Images/Data & algo/Queue.png",
     "Images/Data & algo/Linear Search.png",
     "Images/Data & algo/Bubble Sort.png",
     "Images/Data & algo/bubble big o.png",
     "Images/Data & algo/Array image.png",
-    "projects/RESTWrench/IDEA.md",
     "Programming/Data Structures and Algorithms/Algorithms/Sort/Bubble Sort.md",
-    "Programming/Data Structures and Algorithms/Algorithms/Search/Two Crystal Balls.md",
-    "Programming/Data Structures and Algorithms/Algorithms/Search/Linear Search.md",
-    "Programming/Data Structures and Algorithms/Algorithms/Search/Binary Search.md",
-    "Programming/Data Structures and Algorithms/Data Structures/Stack.md",
-    "Programming/Data Structures and Algorithms/Data Structures/Queue.md",
     "Programming/Data Structures and Algorithms/Data Structures/Array.md",
     "Programming/Data Structures and Algorithms/Algorithms/Sort",
     "Programming/Data Structures and Algorithms/Algorithms/Search",
@@ -189,9 +196,6 @@
     "2023-05-24.md",
     "Untitled.canvas",
     "App installs/Neovim/Install Neovim 1.md",
-    "App installs/git/Install Git.md",
-    "App installs/WSL/First WSL Install.md",
-    "Excalidraw/Drawing 2023-05-24 14.05.40.excalidraw.md",
-    "Languages/Untitled.md"
+    "App installs/git/Install Git.md"
   ]
 }
